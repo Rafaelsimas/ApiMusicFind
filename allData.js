@@ -53,6 +53,42 @@ const allData = [
     priceBase: 800,
     eventType: "Todos",
   },
+  {
+    id: 7,
+    urlImage:
+      "https://images.unsplash.com/photo-1503528027243-2a3df3850cfa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Antônio",
+    instrument: "Guitarra",
+    priceBase: 800,
+    eventType: "Todos",
+  },
+  {
+    id: 8,
+    urlImage:
+      "https://images.unsplash.com/photo-1503528027243-2a3df3850cfa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Célia",
+    instrument: "Guitarra",
+    priceBase: 800,
+    eventType: "Todos",
+  },
+  {
+    id: 9,
+    urlImage:
+      "https://images.unsplash.com/photo-1499424017184-418f6808abf9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Guilherme",
+    instrument: "Guitarra",
+    priceBase: 800,
+    eventType: "Todos",
+  },
+  {
+    id: 10,
+    urlImage:
+      "https://images.unsplash.com/photo-1480700046546-dfee380a7bd8?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    name: "Júnior",
+    instrument: "Baixista",
+    priceBase: 800,
+    eventType: "Todos",
+  },
 ]
 
 module.exports = allData
